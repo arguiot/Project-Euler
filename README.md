@@ -25,7 +25,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Lucas Gruwez - Helping
+* Mathias Lafaye de Micheaux - Helping creating README
 
 ## Files
 
