@@ -11,7 +11,9 @@ $ git clone https://github.com/lukalafaye/Project-Euler
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/lukalafaye/Project-Euler/blob/master/CONTRIBUTING.md) for details on submitting pull requests to this project.
+Please leave a star 🌟  to help the project getting more popular!
+
+You can also read [CONTRIBUTING.md](https://github.com/lukalafaye/Project-Euler/blob/master/CONTRIBUTING.md) for details on submitting pull requests to this project.
 
 ## Files
 
