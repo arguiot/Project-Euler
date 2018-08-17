@@ -15,6 +15,10 @@ Please leave a star 🌟  to help the project getting more popular!
 
 You can also read [CONTRIBUTING.md](https://github.com/lukalafaye/Project-Euler/blob/master/CONTRIBUTING.md) for details on submitting pull requests to this project.
 
+## Authors
+
+* **Luka Lafaye de Micheaux** - *Initial work* - [**lukalafaye**](https://github.com/lukalafaye)
+
 ## Files
 
 ### Python
