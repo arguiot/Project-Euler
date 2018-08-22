@@ -18,8 +18,13 @@ You can also read [CONTRIBUTING.md](https://github.com/lukalafaye/Project-Euler/
 ## Authors
 
 * **Luka Lafaye de Micheaux** - *Initial work* - [**lukalafaye**](https://github.com/lukalafaye)
+* **Arthur Guiot**            - *Contributed*  - [**arguiot**](https://github.com/arguiot)
 
 ## Files
+
+### Solutions
+
+https://github.com/lukalafaye/Project-Euler/blob/master/SOLUTIONS.md
 
 ### Python
 
