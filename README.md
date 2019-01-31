@@ -1,13 +1,6 @@
 # Project-Euler
 
-This GitHub project contains simple solutions to problem listed on Project Euler.
-
-### Installing
-
-Clone the GitHub repository
-```
-$ git clone https://github.com/lukalafaye/Project-Euler
-```
+Simple solutions to problems listed on Project Euler.
 
 ## Contributing
 
@@ -18,7 +11,7 @@ You can also read [CONTRIBUTING.md](https://github.com/lukalafaye/Project-Euler/
 ## Authors
 
 * **Luka Lafaye de Micheaux** - *Initial work* - [**lukalafaye**](https://github.com/lukalafaye)
-* **Arthur Guiot**            - *Contributed*  - [**arguiot**](https://github.com/arguiot)
+* **Arthur Guiot**            - *Added 50 solutions*  - [**arguiot**](https://github.com/arguiot)
 
 ## Files
 
