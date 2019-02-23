@@ -43,6 +43,7 @@ See also the list of [contributors](https://github.com/lukalafaye/Project-Euler/
 # Acknowledgments
 
 * **Arthur Guiot** - *Added 50 solutions*  - [@arguiot](https://github.com/arguiot)
+* **Mathias Lafaye de Micheaux** - *Added file links for all Python scripts* - [@mathiaslafaye](https://github.com/mathiaslafaye)
 
 # License
 
