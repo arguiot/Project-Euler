@@ -1,4 +1,4 @@
-<div align="center"><img src="#" alt="Logo" height="200"><h1>Project-Euler</h1></div>
+<div align="center"><img src="img/logo.jpg" alt="Logo" height="200"><h1>Project-Euler</h1></div>
 
 This GitHub project contains simple solutions to the 20 first problems listed on Project Euler.
 
